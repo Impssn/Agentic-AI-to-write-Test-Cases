@@ -6,4 +6,4 @@ them. These files will be generated in the same folder where this script was run
 necessary changes alone instead of studying the entire user-manual, understanding it and writing test-cases from scratch. This made the manual testers around
 4x-5x more productive. 
 
-NOTE: The jupyter-notebook version of the script is uploaded for easy tracking and understanding of the code and the AI Workflow.
+**NOTE:** The jupyter-notebook version of the script is uploaded for easy tracking and understanding of the code and the AI Workflow.
